@@ -1,14 +1,13 @@
 # Michael Valencia
 
-#### College student, backend web developer, CSS styler, and theoretical chemistry researcher.
+#### NIH IRTA Fellow working on bioinformatics research. 
 
 <b> NOW </b>
-- 🔭 I'm working on astrochemistry research related to genetic algorithms.
-- 🌱 I’m currently learning about concurrency and communicating serial processes (CSP).
-- ⚽ I enjoy making terminal based Go games, such as GoBlackjack. Currently working on: GoHorses.
+- 🦠 Working on pipelines for metagenomic shotgun sequencing.
+- 🥤 Applying the pipelines to research into alcohol abuse disorder and sleep rhythms.
 
 <b> SKILLS </b>
-- ✔️ Proficiency in `.go`, `.py`, `.css`.
+- ✔️ Proficiency in `.go`, `.py`, `.css`, `.rs`!
 - 🗄️ MongoDB, SQL, Redis.
 - 📦 Kubernetes and Docker.
 
