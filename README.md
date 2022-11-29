@@ -4,7 +4,7 @@
 
 <b> NOW </b>
 - 🦠 Working on pipelines for metagenomic shotgun sequencing.
-- 🥤 Applying the pipelines to research into alcohol abuse disorder and sleep rhythms.
+- 🥤 Applying the pipelines to research into alcohol use disorder and sleep rhythms.
 
 <b> SKILLS </b>
 - ✔️ Proficiency in `.go`, `.py`, `.css`, `.rs`!
