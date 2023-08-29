@@ -1,10 +1,11 @@
 # Michael Valencia
 
-#### NIH IRTA Fellow working on bioinformatics research. 
+#### MD/PhD Student working on bioinformatics research. 
 
 <b> NOW </b>
-- 🦠 Working on pipelines for metagenomic shotgun sequencing.
-- 🥤 Applying the pipelines to research into alcohol use disorder and sleep rhythms.
+- 🦠 Pipelines for metagenomic shotgun sequencing.
+- 🧠 Transcriptomics data for Alzheimer's research.
+- 💉 Getting through medical school.
 
 <b> SKILLS </b>
 - ✔️ Proficiency in `.go`, `.py`, `.css`, `.rs`!
