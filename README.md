@@ -3,12 +3,11 @@
 #### MD/PhD Student working on bioinformatics research. 
 
 <b> NOW </b>
-- 🦠 Pipelines for metagenomic shotgun sequencing.
 - 🧠 Transcriptomics data for Alzheimer's research.
-- 💉 Getting through medical school.
+- 💉 3rd year MD/PhD Student
 
 <b> SKILLS </b>
-- ✔️ Proficiency in `.go`, `.py`, `.css`, `.rs`!
+- ✔️ Proficiency in `.go`, `.py`, `.css`, `.rs`, `.R`!
 - 🗄️ MongoDB, SQL, Redis.
 - 📦 Kubernetes and Docker.
 
